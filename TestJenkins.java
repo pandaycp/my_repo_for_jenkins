@@ -3,5 +3,8 @@ public class TestJenkins{
         System.out.println("Hello, this is my first java program for Jenkins !!!");
         System.out.println("Hi");
         System.out.println("A new line added1");
+
+        Student s = new Student();
+        s.sayHello();
     }
 }
